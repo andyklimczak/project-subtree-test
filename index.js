@@ -1,3 +1,3 @@
 function getSubProjectVersion() {
-  return 2.0;
+  return 4.0;
 }
