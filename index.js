@@ -1,5 +1,5 @@
 function getProjectVersion() {
-  return 2.0;
+  return 4.0;
 }
 
 if(getProjectVersion() === getSubProjectVersion()) {
